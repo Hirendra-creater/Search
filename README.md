@@ -1,5 +1,4 @@
 # Search
-Certainly, Hirendra! Here's a professional and well-structured README.md section you can use to describe your Search App on GitHub. I've tailored it to reflect best practices you already follow—like clarity, clean naming conventions, and practical backend work with Flask and SQLite:
 
 🔍 Search App
 Overview
@@ -20,13 +19,13 @@ Tech Stack
 
 Setup
 - Clone the repository:
-git clone https://github.com/your-username/search-app.git  
+git clone https://hirendra-creater.github.io/Search/ 
 cd search-app  
 - Install dependencies:
 pip install -r requirements.txt  
 - Run the app:
 flask run  
-- Access via browser at http://localhost:5000
+- Access via browser at https://hirendra-creater.github.io/Search/
 Usage
 - Upload your dataset (.csv or .txt).
 - Use the search bar to filter results.
@@ -36,4 +35,4 @@ Feel free to fork the repository, create issues, or open pull requests. Be sure 
 License
 This project is licensed under the MIT License.
 
-Want help writing the CONTRIBUTING.md or refining the code comments for clarity? I’d be happy to collaborate on that too.
+
